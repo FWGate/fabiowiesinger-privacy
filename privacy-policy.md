@@ -1,7 +1,7 @@
 Datenschutzerklärung
 --------------
 
-# HBA (Heart Beat Analysis) - Software
+## HBA (Heart Beat Analysis) - Software
 
 ## 1. Datenschutz auf einen Blick
 Allgemeine Hinweise
