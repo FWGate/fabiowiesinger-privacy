@@ -41,7 +41,7 @@ Wenn Sie die HBA-Software benutzen, werden verschiedene personenbezogene Daten e
 Wir weisen darauf hin, dass die Datenübertragung im Internet (z. B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.
 
 ### Hinweis zur verantwortlichen Stelle
-Die verantwortlichen Stellen für die Datenverarbeitung auf dieser Website ist:
+Die verantwortlichen Stellen für die Datenverarbeitung des HBA - Systems sind:
 #### heart beat analysis UG 
 * Vertreten durch:
 * Marvin Sölter
