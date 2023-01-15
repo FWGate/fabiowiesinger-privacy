@@ -39,13 +39,13 @@ Wir weisen darauf hin, dass die Datenübertragung im Internet (z. B. bei der Kom
 
 ### Hinweis zur verantwortlichen Stelle
 Die verantwortlichen Stellen für die Datenverarbeitung auf dieser Website ist:
-* heart beat analysis UG 
+#### heart beat analysis UG 
 * Vertreten durch:
 * Marvin Sölter
 * Telefon: +49 170 7384758
 * E-Mail: marvin.sölter@gmail.com
 
-* FutureGate e.U.
+#### FutureGate e.U.
 * Vertreten durch:
 * Fabio Wiesinger
 * Telefon: +43 664 9723985
