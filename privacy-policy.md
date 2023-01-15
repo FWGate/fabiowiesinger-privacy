@@ -18,6 +18,7 @@ Die Erfassung dieser Daten erfolgt automatisch, sobald Sie die Software benutzen
 
 ### Wofür nutzen wir Ihre Daten?
 Ein Teil der Daten wird erhoben, um eine fehlerfreie Bereitstellung der HBA - Software zu gewährleisten. Andere Daten können zur Analyse Ihres Nutzerverhaltens verwendet werden.
+
 Um Sie und uns vor betrügerischen Handlungen zu schützen, wird die IMEI (International Mobile Equipment Identity) – Nummer des verwendeten Geräts, auf dem die Software installiert ist, ausgelesen und mit dem Lizenz-Benutzer, der Ihnen von uns beim Kauf des HBA-Systems zur Verfügung gestellt wurde, in einer Datenbank verknüpft. Somit kann sichergestellt werden, dass eine Lizenz nur auf einem Gerät verwendet wird. Die IMEI – Nummer wird ausschließlich für diesen Zweck benötigt und verwendet. Bei Android Geräten wird dafür die Berechtigung „Telefon“ benötigt. 
 
 ### Welche Rechte haben Sie bezüglich Ihrer Daten?
@@ -81,10 +82,15 @@ Sie haben im Rahmen der geltenden gesetzlichen Bestimmungen jederzeit das Recht 
 ### Recht auf Einschränkung der Verarbeitung
 Sie haben das Recht, die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen. Hierzu können Sie sich jederzeit an uns wenden. Das Recht auf Einschränkung der Verarbeitung besteht in folgenden Fällen:
 
+
 Wenn Sie die Richtigkeit Ihrer bei uns gespeicherten personenbezogenen Daten bestreiten, benötigen wir in der Regel Zeit, um dies zu überprüfen. Für die Dauer der Prüfung haben Sie das Recht, die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.
+
 Wenn die Verarbeitung Ihrer personenbezogenen Daten unrechtmäßig geschah/geschieht, können Sie statt der Löschung die Einschränkung der Datenverarbeitung verlangen.
+
 Wenn wir Ihre personenbezogenen Daten nicht mehr benötigen, Sie sie jedoch zur Ausübung, Verteidigung oder Geltendmachung von Rechtsansprüchen benötigen, haben Sie das Recht, statt der Löschung die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.
+
 Wenn Sie einen Widerspruch nach Art. 21 Abs. 1 DSGVO eingelegt haben, muss eine Abwägung zwischen Ihren und unseren Interessen vorgenommen werden. Solange noch nicht feststeht, wessen Interessen überwiegen, haben Sie das Recht, die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.
+
 Wenn Sie die Verarbeitung Ihrer personenbezogenen Daten eingeschränkt haben, dürfen diese Daten – von ihrer Speicherung abgesehen – nur mit Ihrer Einwilligung oder zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen oder zum Schutz der Rechte einer anderen natürlichen oder juristischen Person oder aus Gründen eines wichtigen öffentlichen Interesses der Europäischen Union oder eines Mitgliedstaats verarbeitet werden.
 
 ### SSL- bzw. TLS-Verschlüsselung
