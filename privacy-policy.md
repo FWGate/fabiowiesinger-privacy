@@ -32,6 +32,7 @@ FIREBASE
 
 FIREBASE, ist unter anderem ein Cloud-Dienst, der vom amerikanischen Unternehmen Google Inc. angeboten wird. Für den europäischen Raum ist das Unternehmen Google Ireland Limited (Gordon House, Barrow Street Dublin 4, Irland) für alle Google-Dienste verantwortlich. 
 Wenn Sie unsere Software benutzen, erfasst FIREBASE die oben genannten Daten (z.B. Benutzer-Lizenz, IMEI, …) und speichert diese. Details entnehmen Sie der Datenschutzerklärung von FIREBASE: https://firebase.google.com/support/privacy
+
 Die Verwendung von FIREBASE erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO. Wir haben ein berechtigtes Interesse an einem möglichst zuverlässigen und sicheren Betrieb unserer Software. 
 
 ## 3. Allgemeine Hinweise und Pflichtinformationen
